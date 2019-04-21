@@ -10,7 +10,7 @@ A simple downloader written in go.
 
 Use command:
 ```bash
-$ go get -u iochen.com/simpledownloader
+$ go get -u github.com/iochen/GoSimpleProjects/tree/master/SimpleDownloader
 ```
 (or download from [releases](https://github.com/iochen/SimpleDownloader/releases))
 
